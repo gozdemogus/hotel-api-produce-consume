@@ -1,0 +1,84 @@
+﻿@model BookingViewModel
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<div class="col-xl-4 col-lg-5 offset-xl-2 offset-lg-1">
+    <div class="booking-form">
+        <h3>Booking Your Hotel</h3> <h5>Let us informed, we will call you.</h5>
+
+        <br />
+        <form method="post">
+            <div class="check-date">
+                <label for="date-in">Check In:</label>
+                <input type="text" class="date-input" id="date-in">
+                <i class="icon_calendar"></i>
+            </div>
+            <div class="check-date">
+                <label for="date-out">Check Out:</label>
+                <input type="text" class="date-input" id="date-out">
+                <i class="icon_calendar"></i>
+            </div>
+            <div class="select-option">
+                <label>Guests:</label>
+                @Html.DropDownListFor(x => x.GuestsCount, new List<SelectListItem>
+                    {
+                       new SelectListItem { Text = "1 Adult", Value = "1" },
+                       new SelectListItem { Text = "2 Adults", Value = "2" },
+                       new SelectListItem { Text = "3 Adults", Value = "3" }
+                     }, new { @class = "form-control", id = "gst" })
+
+            </div>
+            <div class="select-option">
+                <label>Room Type:</label>
+                <div class="select-option">
+                    @Html.DropDownListFor(x => x.RoomType, (List<SelectListItem>)ViewBag.type, new { @class = "form-control", id = "roomTypeDropdown" })
+
+                </div>
+            </div>
+            <button type="submit" id="subButton">NEW</button>
+            <h4 id="hidden" type="hidden" style="display: none;">Your booking inquiry has been sent. We will contact you soon. Thank You.</h4>
+
+        </form>
+    </div>
+</div>
+
+
+
+<script>$(document).ready(function () {
+    $('#subButton').click(function (e) {
+            debugger
+            e.preventDefault();
+            var checkin = $('#date-in').val();
+            var checkout = $('#date-out').val();
+            var guest = $('#gst').val();
+            var type = $('#roomTypeDropdown').val();
+
+
+            $.ajax({
+                url: '/Booking/MakeBooking',
+                type: 'POST',
+                data: {
+                    CheckIn: checkin,
+                    CheckOut: checkout,
+                    GuestsCount: guest,
+                    RoomType: type
+                },
+
+                success: function (response) {
+                    //location.reload();
+
+                    $('#date-in').val('');
+                    $('#date-out').val('');
+                 
+                    $('#hidden').show();
+                    setTimeout(function () {
+                        $("#hidden").fadeOut();
+                    }, 5000); // 10 seconds
+
+                },
+                error: function (error) {
+                    console.log(type, "type")
+                }
+            });
+        });
+    });</script>

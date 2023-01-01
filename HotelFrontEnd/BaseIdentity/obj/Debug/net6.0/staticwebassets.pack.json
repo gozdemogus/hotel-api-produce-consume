@@ -1,0 +1,585 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/.DS_Store",
+      "PackagePath": "staticwebassets/Hotel/.DS_Store"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/Flaticon.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/Flaticon.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/Magnific-Popup-master.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/Magnific-Popup-master.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/SlickNav-master.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/SlickNav-master.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/elegant_font.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/elegant_font.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/sass.zip",
+      "PackagePath": "staticwebassets/Hotel/Source/sass.zip"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/about-us.html",
+      "PackagePath": "staticwebassets/Hotel/about-us.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/blog-details.html",
+      "PackagePath": "staticwebassets/Hotel/blog-details.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/blog.html",
+      "PackagePath": "staticwebassets/Hotel/blog.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/contact.html",
+      "PackagePath": "staticwebassets/Hotel/contact.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/Hotel/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/elegant-icons.css",
+      "PackagePath": "staticwebassets/Hotel/css/elegant-icons.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/flaticon.css",
+      "PackagePath": "staticwebassets/Hotel/css/flaticon.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/Hotel/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/images/ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets/Hotel/css/images/ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/images/ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets/Hotel/css/images/ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/Hotel/css/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/Hotel/css/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/nice-select.css",
+      "PackagePath": "staticwebassets/Hotel/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/Hotel/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/slicknav.min.css",
+      "PackagePath": "staticwebassets/Hotel/css/slicknav.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/style.css",
+      "PackagePath": "staticwebassets/Hotel/css/style.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.eot",
+      "PackagePath": "staticwebassets/Hotel/fonts/ElegantIcons.eot"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.svg",
+      "PackagePath": "staticwebassets/Hotel/fonts/ElegantIcons.svg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.ttf",
+      "PackagePath": "staticwebassets/Hotel/fonts/ElegantIcons.ttf"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.woff",
+      "PackagePath": "staticwebassets/Hotel/fonts/ElegantIcons.woff"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.eot",
+      "PackagePath": "staticwebassets/Hotel/fonts/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.svg",
+      "PackagePath": "staticwebassets/Hotel/fonts/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.ttf",
+      "PackagePath": "staticwebassets/Hotel/fonts/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/Hotel/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/Hotel/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/Hotel/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/Hotel/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/Hotel/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/Hotel/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/Hotel/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/.DS_Store",
+      "PackagePath": "staticwebassets/Hotel/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/about/about-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/about/about-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/about/about-p1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/about/about-p2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/about/about-p3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-10.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-10.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-4.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-5.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-5.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-6.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-6.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-7.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-7.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-8.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-8.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-9.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-9.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-details/avatar/avatar-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-details/avatar/avatar-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-details/avatar/avatar-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-details/blog-details-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-details/blog-details-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-details/blog-details-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-hero.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-details/blog-details-hero.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-wide.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/blog/blog-wide.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/flag.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/flag.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/footer-logo.png",
+      "PackagePath": "staticwebassets/Hotel/img/footer-logo.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/gallery/gallery-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/gallery/gallery-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/gallery/gallery-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-4.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/gallery/gallery-4.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/hero/hero-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/hero/hero-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/hero/hero-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/logo.png",
+      "PackagePath": "staticwebassets/Hotel/img/logo.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/play.png",
+      "PackagePath": "staticwebassets/Hotel/img/play.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/avatar/avatar-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/avatar/avatar-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/avatar/avatar-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/avatar/avatar-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-4.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-4.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-5.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-5.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-6.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-6.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b1.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-b1.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b2.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-b2.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b3.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-b3.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b4.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-b4.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-details.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/room/room-details.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/services/s-icon-1.png",
+      "PackagePath": "staticwebassets/Hotel/img/services/s-icon-1.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/testimonial-logo.png",
+      "PackagePath": "staticwebassets/Hotel/img/testimonial-logo.png"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/video-bg.jpg",
+      "PackagePath": "staticwebassets/Hotel/img/video-bg.jpg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/index.html",
+      "PackagePath": "staticwebassets/Hotel/index.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/Hotel/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/Hotel/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/Hotel/js/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/Hotel/js/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/Hotel/js/jquery.nice-select.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.slicknav.js",
+      "PackagePath": "staticwebassets/Hotel/js/jquery.slicknav.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/main.js",
+      "PackagePath": "staticwebassets/Hotel/js/main.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/Hotel/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/main.html",
+      "PackagePath": "staticwebassets/Hotel/main.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/readme.txt",
+      "PackagePath": "staticwebassets/Hotel/readme.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/room-details.html",
+      "PackagePath": "staticwebassets/Hotel/room-details.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/rooms.html",
+      "PackagePath": "staticwebassets/Hotel/rooms.html"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.BaseIdentity.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.BaseIdentity.props",
+      "PackagePath": "build\\BaseIdentity.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BaseIdentity.props",
+      "PackagePath": "buildMultiTargeting\\BaseIdentity.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BaseIdentity.props",
+      "PackagePath": "buildTransitive\\BaseIdentity.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

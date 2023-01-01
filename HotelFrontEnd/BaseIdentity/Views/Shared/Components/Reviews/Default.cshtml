@@ -1,0 +1,42 @@
+﻿@using BaseIdentity.PresentationLayer.Models
+
+@model List<Review>
+
+<div class="rd-reviews">
+    <h4>Reviews</h4>
+    @foreach (var item in Model)
+        {
+            int rating = int.Parse(@item.Rating);
+
+            var ratingHtml = "";
+
+            for (int i = 0; i < rating; i++)
+            {
+                ratingHtml += "<i class='icon_star'></i>";
+            }
+
+            if (rating % 1 != 0)
+            {
+                ratingHtml += "<i class='icon_star-half_alt'></i>";
+            }
+
+
+        <div class="review-item">
+            <div class="ri-pic">
+                <img src="@item.ReviewerPhoto" alt="">
+            </div>
+            <div class="ri-text">
+                <span>@item.Date</span>
+                <div class="rating">
+                    @Html.Raw(ratingHtml)
+                </div>
+                <h5>@item.ReviewerName</h5>
+                <p>
+                    @item.Description
+                </p>
+            </div>
+        </div>
+
+    }
+
+</div>

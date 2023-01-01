@@ -1,0 +1,72 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>BaseIdentity</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'WebApplication1' " />
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BaseIdentity.BusinessLayer.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\BaseIdentity.DataAccessLayer\BaseIdentity.DataAccessLayer.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\EntityLayer\BaseIdentity.EntityLayer.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Microsoft.EntityFrameworkCore" />
+    <None Remove="Microsoft.EntityFrameworkCore.Design" />
+    <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+    <None Remove="Microsoft.AspNetCore.Identity" />
+    <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
+    <None Remove="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
+    <None Remove="Views\Register\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\HomeRoom\" />
+    <None Remove="Views\Shared\Components\Booking\" />
+    <None Remove="Views\Booking\" />
+    <None Remove="Views\RoomType\" />
+    <None Remove="Views\Room\" />
+    <None Remove="Views\Shared\Components\Reviews\" />
+    <None Remove="Views\Shared\Components\AddReview\" />
+    <None Remove="Views\Contact\" />
+    <None Remove="Models\ViewModels\" />
+    <None Remove="Views\Shared\Components\Weather\" />
+    <None Remove="Newtonsoft.Json" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.17">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.17">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.17" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Register\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\HomeRoom\" />
+    <Folder Include="Views\Shared\Components\Booking\" />
+    <Folder Include="Views\Booking\" />
+    <Folder Include="Views\RoomType\" />
+    <Folder Include="Views\Room\" />
+    <Folder Include="Views\Shared\Components\Reviews\" />
+    <Folder Include="Views\Shared\Components\AddReview\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Models\ViewModels\" />
+    <Folder Include="Views\Shared\Components\Weather\" />
+  </ItemGroup>
+</Project>

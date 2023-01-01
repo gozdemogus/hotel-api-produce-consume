@@ -1,0 +1,12 @@
+﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+<center>
+    @if (ViewBag.feelsLike != null)
+    {
+        <div>
+            Today's weather  <i class="fa fa-sun fa-2x" style="color: orange; transition: color 0.2s;" onmouseover="this.style.color='red'" onmouseout="this.style.color='orange'"></i> @ViewBag.feelsLike
+        </div>
+    }
+
+</center>
+

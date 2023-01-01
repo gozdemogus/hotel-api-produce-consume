@@ -1,0 +1,112 @@
+﻿@using BaseIdentity.PresentationLayer.Models
+
+@model Room
+
+@{ 
+        int rating = int.Parse(Model.RoomType.Rating);
+
+        var ratingHtml = "";
+
+        for (int i = 0; i < rating; i++)
+        {
+            ratingHtml += "<i class='icon_star'></i>";
+        }
+
+        if (rating % 1 != 0)
+        {
+            ratingHtml += "<i class='icon_star-half_alt'></i>";
+        }
+    }
+
+<!-- Breadcrumb Section Begin -->
+<div class="breadcrumb-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb-text">
+                    <h2>Our Rooms</h2>
+                    <div class="bt-option">
+                        <a href="/Home/Index/">Home</a>
+                        <span>@Model.RoomType.Name Room</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumb Section End -->
+<!-- Room Details Section Begin -->
+<section class="room-details-section spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="room-details-Model">
+                    <img src="@Model.ImageUrl" alt="">
+                    <div class="rd-text">
+                        <div class="rd-title">
+                            <h3>@Model.RoomType.Name - Room Number: @Model.Number</h3>
+                            <div class="rdt-right">
+                                <div class="rating">
+                                    @Html.Raw(ratingHtml)
+                                </div>
+                                <a href="#">Booking Now</a>
+                            </div>
+                        </div>
+                        <h5>@Model.RoomType.BasePrice $<span>/ Per Night</span></h5>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="r-o">Size:</td>
+                                    <td>@Model.BedSize ft</td>
+                                </tr>
+                                <tr>
+                                    <td class="r-o">Capacity:</td>
+                                    <td>Max person @Model.RoomType.Capacity</td>
+                                </tr>
+                                <tr>
+                                    <td class="r-o">Bed:</td>
+                                    <td>@Model.BedSize</td>
+                                </tr>
+                                <tr>
+                                    <td class="r-o">Services:</td>
+                                    <td>@Model.RoomType.Services</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="f-para">
+                            @Model.Description
+                        </p>
+                        <p>
+                            @Model.RoomType.Description
+                        </p>
+                    </div>
+                </div>
+                @await Component.InvokeAsync("Reviews", Model.Number)
+
+                @await Component.InvokeAsync("AddReview", Model.Id)
+
+            </div>
+            <div class="col-lg-4">
+                <div class="room-booking">
+                    <h3>Leave Your Number</h3>
+                    <h6>We will reach you for our special offers.</h6>
+                    <br />
+                    <form action="#">
+                        <div class="check-date">
+                            <label for="date-in">Number</label>
+                            <input type="text" id="number">
+                            <i class="icon_phone"></i>
+                        </div>
+                        <button type="submit">CALL ME</button>
+                    </form>
+                </div>
+                <br />
+                @await Component.InvokeAsync("Weather")
+            </div>
+
+          
+        </div>
+    </div>
+</section>
+<!-- Room Details Section End -->
+   

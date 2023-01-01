@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2FA5A75B-BA19-42D4-B420-DB94C7C8DE18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UpSchool_WebApi/DAL/Entities/Category.cs">
+    <Files>
+      <File FileName="UpSchool_WebApi/Controllers/CategoryController.cs" Line="26" Column="1" />
+      <File FileName="UpSchool_WebApi/DAL/Entities/Category.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UpSchool_WebApi" expanded="True">
+            <Node name="UpSchool_WebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="Category.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UpSchool__WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
