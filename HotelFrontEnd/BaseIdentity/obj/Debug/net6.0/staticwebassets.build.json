@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uho23freXl3sRurZYTGQ4p8Fs1ATL+a+a5w+Z2QJ/cY=",
+  "Hash": "TIyVaHP/ODboA8zx4TX03st4rKN/NAqBBaCM+Eiq3k0=",
   "Source": "BaseIdentity",
   "BasePath": "_content/BaseIdentity",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BaseIdentity/wwwroot",
       "Source": "BaseIdentity",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/css/site.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/css/site.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/favicon.ico",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/favicon.ico",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/.DS_Store",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/.DS_Store",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/.DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/.DS_Store"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/about-us.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/about-us.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/about-us.html",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/about-us.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/blog-details.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/blog-details.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/blog-details.html",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/blog-details.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/blog.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/blog.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/blog.html",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/blog.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/contact.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/contact.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/contact.html",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/contact.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/bootstrap.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/bootstrap.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/elegant-icons.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/elegant-icons.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/elegant-icons.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/elegant-icons.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/flaticon.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/flaticon.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/flaticon.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/flaticon.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/font-awesome.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/font-awesome.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/font-awesome.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/images/ui-icons_444444_256x240.png",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/images/ui-icons_444444_256x240.png",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/images/ui-icons_444444_256x240.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/images/ui-icons_444444_256x240.png"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/images/ui-icons_555555_256x240.png",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/images/ui-icons_555555_256x240.png",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/images/ui-icons_555555_256x240.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/images/ui-icons_555555_256x240.png"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/jquery-ui.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/jquery-ui.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/jquery-ui.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/jquery-ui.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/magnific-popup.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/magnific-popup.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/magnific-popup.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/magnific-popup.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/nice-select.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/nice-select.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/nice-select.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/nice-select.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/owl.carousel.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/owl.carousel.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/owl.carousel.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/slicknav.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/slicknav.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/slicknav.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/slicknav.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/style.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/css/style.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/css/style.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/css/style.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.eot",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.eot",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/ElegantIcons.eot",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/ElegantIcons.eot"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.svg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.svg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/ElegantIcons.svg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/ElegantIcons.svg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.ttf",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.ttf",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/ElegantIcons.ttf",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/ElegantIcons.ttf"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.woff",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/ElegantIcons.woff",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/ElegantIcons.woff",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/ElegantIcons.woff"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.eot",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.eot",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/Flaticon.eot",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/Flaticon.eot"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.svg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.svg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/Flaticon.svg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/Flaticon.svg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.ttf",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.ttf",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/Flaticon.ttf",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/Flaticon.ttf"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.woff",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/Flaticon.woff",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/Flaticon.woff"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.eot",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.eot",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/fontawesome-webfont.eot"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.svg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.svg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/fontawesome-webfont.svg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.ttf",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.ttf",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.woff",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.woff",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/fontawesome-webfont.woff"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.woff2",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/fontawesome-webfont.woff2",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/FontAwesome.otf",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/fonts/FontAwesome.otf",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/fonts/FontAwesome.otf"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/.DS_Store",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/.DS_Store",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/.DS_Store",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/.DS_Store"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/about/about-1.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/about/about-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/about/about-2.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/about/about-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/about/about-p1.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/about/about-p1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/about/about-p2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/about/about-p2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/about/about-p3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/about/about-p3.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/about/about-p3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-10.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-10.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-10.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-10.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-4.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-4.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-4.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-5.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-5.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-5.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-5.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-6.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-6.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-6.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-6.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-7.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-7.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-7.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-7.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-8.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-8.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-8.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-8.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-9.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-9.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-9.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-9.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-details/avatar/avatar-1.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-details/avatar/avatar-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-details/avatar/avatar-2.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-details/avatar/avatar-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/avatar/avatar-3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-details/avatar/avatar-3.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-details/avatar/avatar-3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-details/blog-details-1.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-details/blog-details-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-details/blog-details-2.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-details/blog-details-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-details/blog-details-3.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-details/blog-details-3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-hero.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-details/blog-details-hero.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-details/blog-details-hero.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-details/blog-details-hero.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-wide.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/blog/blog-wide.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/blog/blog-wide.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/blog/blog-wide.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/flag.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/flag.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/flag.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/flag.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/footer-logo.png",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/footer-logo.png",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/footer-logo.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/footer-logo.png"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/gallery/gallery-1.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/gallery/gallery-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/gallery/gallery-2.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/gallery/gallery-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/gallery/gallery-3.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/gallery/gallery-3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-4.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/gallery/gallery-4.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/gallery/gallery-4.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/gallery/gallery-4.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/hero/hero-1.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/hero/hero-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/hero/hero-2.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/hero/hero-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/hero/hero-3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/hero/hero-3.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/hero/hero-3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/logo.png",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/logo.png",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/logo.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/logo.png"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/play.png",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/play.png",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/play.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/play.png"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/avatar/avatar-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/avatar/avatar-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/avatar/avatar-1.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/avatar/avatar-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/avatar/avatar-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/avatar/avatar-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/avatar/avatar-2.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/avatar/avatar-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-1.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-2.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-3.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-4.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-4.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-4.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-4.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-5.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-5.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-5.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-5.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-6.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-6.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-6.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-6.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b1.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b1.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-b1.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-b1.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b2.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b2.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-b2.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-b2.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b3.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b3.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-b3.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-b3.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b4.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-b4.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-b4.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-b4.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-details.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/room/room-details.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/room/room-details.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/room/room-details.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/services/s-icon-1.png",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/services/s-icon-1.png",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/services/s-icon-1.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/services/s-icon-1.png"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/testimonial-logo.png",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/testimonial-logo.png",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/testimonial-logo.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/testimonial-logo.png"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/video-bg.jpg",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/img/video-bg.jpg",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/img/video-bg.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/img/video-bg.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/index.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/index.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/index.html",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/index.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/bootstrap.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/bootstrap.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery-3.3.1.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery-3.3.1.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/jquery-3.3.1.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery-ui.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery-ui.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/jquery-ui.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/jquery-ui.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.magnific-popup.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.magnific-popup.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.nice-select.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.nice-select.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/jquery.nice-select.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/jquery.nice-select.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.slicknav.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/jquery.slicknav.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/jquery.slicknav.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/jquery.slicknav.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/main.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/main.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/main.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/main.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/owl.carousel.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/js/owl.carousel.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/js/owl.carousel.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/main.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/main.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/main.html",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/main.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/readme.txt",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/readme.txt",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/readme.txt",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/readme.txt"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/room-details.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/room-details.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/room-details.html",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/room-details.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/rooms.html",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/rooms.html",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/rooms.html",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/rooms.html"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/bootstrap-4.4.1-dist.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/bootstrap-4.4.1-dist.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/bootstrap-4.4.1-dist.zip",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/bootstrap-4.4.1-dist.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/elegant_font.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/elegant_font.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/elegant_font.zip",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/elegant_font.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/Flaticon.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/Flaticon.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/Flaticon.zip",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/Flaticon.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/font-awesome-4.7.0.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/font-awesome-4.7.0.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/font-awesome-4.7.0.zip",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/font-awesome-4.7.0.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/jquery-nice-select-1.1.0.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/jquery-nice-select-1.1.0.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/jquery-nice-select-1.1.0.zip",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/jquery-nice-select-1.1.0.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/jquery-ui-1.12.1.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/jquery-ui-1.12.1.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/jquery-ui-1.12.1.zip",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/jquery-ui-1.12.1.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/Magnific-Popup-master.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/Magnific-Popup-master.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/Magnific-Popup-master.zip",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/Magnific-Popup-master.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/OwlCarousel2-2.3.4.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/OwlCarousel2-2.3.4.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/OwlCarousel2-2.3.4.zip",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/OwlCarousel2-2.3.4.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/sass.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/sass.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/sass.zip",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/sass.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/SlickNav-master.zip",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/Hotel/Source/SlickNav-master.zip",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "Hotel/Source/SlickNav-master.zip",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot/Hotel/Source/SlickNav-master.zip"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/js/site.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/js/site.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "BaseIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/wwwroot/",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/wwwroot/",
       "BasePath": "_content/BaseIdentity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gozdemogus/Desktop/HotelReservation/HotelAPI/HotelAPI.csproj": {}
+    "/Users/gozdemogus/Desktop/Hotel/HotelReservation/HotelAPI/HotelAPI.csproj": {}
   },
   "projects": {
-    "/Users/gozdemogus/Desktop/HotelReservation/HotelAPI/HotelAPI.csproj": {
+    "/Users/gozdemogus/Desktop/Hotel/HotelReservation/HotelAPI/HotelAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gozdemogus/Desktop/HotelReservation/HotelAPI/HotelAPI.csproj",
+        "projectUniqueName": "/Users/gozdemogus/Desktop/Hotel/HotelReservation/HotelAPI/HotelAPI.csproj",
         "projectName": "HotelAPI",
-        "projectPath": "/Users/gozdemogus/Desktop/HotelReservation/HotelAPI/HotelAPI.csproj",
+        "projectPath": "/Users/gozdemogus/Desktop/Hotel/HotelReservation/HotelAPI/HotelAPI.csproj",
         "packagesPath": "/Users/gozdemogus/.nuget/packages/",
-        "outputPath": "/Users/gozdemogus/Desktop/HotelReservation/HotelAPI/obj/",
+        "outputPath": "/Users/gozdemogus/Desktop/Hotel/HotelReservation/HotelAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gozdemogus/.nuget/NuGet/NuGet.Config"

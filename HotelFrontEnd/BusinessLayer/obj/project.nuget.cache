@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5xOT4aw4L5YXkgOErv2wqgwohmE5ZJzjSqsZVRcdiaOqdGEPit8T7vFWk8fPkl97tq2TVs0GmtNpC11FcWt1ag==",
+  "dgSpecHash": "ujxJznb3WLVf8iG+fINgXQrLgIdL5d9h6Xvh9yo8NigmDHFQVIPVxao3tr89Ykzi+6MK4ojsXOslVIc7H72njQ==",
   "success": true,
-  "projectFilePath": "/Users/gozdemogus/Desktop/HotelFrontEnd/BusinessLayer/BaseIdentity.BusinessLayer.csproj",
+  "projectFilePath": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BusinessLayer/BaseIdentity.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "/Users/gozdemogus/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/Users/gozdemogus/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

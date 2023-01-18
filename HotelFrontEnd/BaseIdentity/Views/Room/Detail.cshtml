@@ -3,10 +3,11 @@
 @model Room
 
 @{ 
-        int rating = int.Parse(Model.RoomType.Rating);
+    int rating = int.Parse(Model.RoomType.Rating);
 
-        var ratingHtml = "";
-
+    var ratingHtml = "";
+    if(rating != 0)
+    {
         for (int i = 0; i < rating; i++)
         {
             ratingHtml += "<i class='icon_star'></i>";
@@ -16,6 +17,8 @@
         {
             ratingHtml += "<i class='icon_star-half_alt'></i>";
         }
+    }
+
     }
 
 <!-- Breadcrumb Section Begin -->

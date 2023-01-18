@@ -1,31 +1,27 @@
 ﻿<Properties StartupConfiguration="{2FA5A75B-BA19-42D4-B420-DB94C7C8DE18}|UpSchool_WebApi">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.HotelAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HotelAPI/Controllers/RoomController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelAPI/Program.cs">
     <Files>
       <File FileName="HotelAPI/Controllers/RoomController.cs" Line="31" Column="1" />
+      <File FileName="HotelAPI/Program.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HotelAPI" expanded="True">
             <Node name="HotelAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="RoomController.cs" selected="True" />
-              </Node>
-              <Node name="DAL" expanded="True">
-                <Node name="Entities" expanded="True" />
-              </Node>
-              <Node name="Models" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HotelAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

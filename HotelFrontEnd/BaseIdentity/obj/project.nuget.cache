@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NeIZEyNICTUywoLDZcvvsC6kCqgulNYqQ0KZJboke51+JFujJd6+ho2FVV0NsRWFx30jH08juHdnGUQO5NqIDw==",
+  "dgSpecHash": "u19K6CppVdorh1jH3eDsUSGBTfGgoPLA9Pdzh+3rjAqLr3illvgGL9cC6+TO4s+HJSoFaujMSk1v/GwF+JFgKw==",
   "success": true,
-  "projectFilePath": "/Users/gozdemogus/Desktop/HotelFrontEnd/BaseIdentity/BaseIdentity.PresentationLayer.csproj",
+  "projectFilePath": "/Users/gozdemogus/Desktop/Hotel/HotelFrontEnd/BaseIdentity/BaseIdentity.PresentationLayer.csproj",
   "expectedPackageFiles": [
     "/Users/gozdemogus/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/gozdemogus/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
