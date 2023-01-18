@@ -9,7 +9,7 @@ Aimed to create an API consumer project through the hotel reservation - promotio
 
 ### Swagger
 
-<img width="470" alt="image" src="https://user-images.githubusercontent.com/107196935/213286425-53af9595-726d-4de1-95d9-5949eebff235.png"><img width="470" alt="image" src="https://user-images.githubusercontent.com/107196935/213286487-545683f3-0e4e-41c7-9de7-32e6851650ba.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/107196935/213286425-53af9595-726d-4de1-95d9-5949eebff235.png"><img width="450" alt="image" src="https://user-images.githubusercontent.com/107196935/213286487-545683f3-0e4e-41c7-9de7-32e6851650ba.png">
 
 
 ### Main
